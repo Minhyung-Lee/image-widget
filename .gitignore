@@ -1,0 +1,11 @@
+# Local build products and custom working files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+*.user
+*.suo
+.vs/
+local-images/
